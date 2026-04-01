@@ -1,0 +1,13 @@
+datasets/inference/*.jpg
+datasets/train/buildings/*.jpg
+datasets/train/forest/*.jpg
+datasets/train/glacier/*.jpg
+datasets/train/mountain/*.jpg
+datasets/train/sea/*.jpg
+datasets/train/street/*.jpg
+datasets/test/buildings/*.jpg
+datasets/test/forest/*.jpg
+datasets/test/glacier/*.jpg
+datasets/test/mountain/*.jpg
+datasets/test/sea/*.jpg
+datasets/test/street/*.jpg
