@@ -11,3 +11,4 @@ datasets/test/glacier/*.jpg
 datasets/test/mountain/*.jpg
 datasets/test/sea/*.jpg
 datasets/test/street/*.jpg
+model_cnn_intel.h5
